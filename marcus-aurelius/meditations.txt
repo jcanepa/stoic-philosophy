@@ -1,17 +1,3 @@
-Provided by The Internet Classics Archive.
-See bottom for copyright. Available online at
-    http://classics.mit.edu//Antoninus/meditations.html
-
-The Meditations
-By Marcus Aurelius
-
-
-Translated by George Long
-
-----------------------------------------------------------------------
-
-BOOK ONE
-
 From my grandfather Verus I learned good morals and the government
 of my temper.
 
@@ -264,10 +250,6 @@ for all these things require the help of the gods and fortune.
 
 Among the Quadi at the Granua.
 
-----------------------------------------------------------------------
-
-BOOK TWO
-
 Begin the morning by saying to thyself, I shall meet with the busy-body,
 the ungrateful, arrogant, deceitful, envious, unsocial. All these
 things happen to them by reason of their ignorance of what is good
@@ -473,10 +455,6 @@ the elements? For it is according to nature, and nothing is evil which
 is according to nature.
 
 This in Carnuntum.
-
-----------------------------------------------------------------------
-
-BOOK THREE
 
 We ught to consider not only that our life is daily wasting away
 and a smaller part of it is left, but another thing also must be taken
@@ -727,10 +705,6 @@ angry with any of them, nor does he deviate from the way which leads
 to the end of life, to which a man ought to come pure, tranquil, ready
 to depart, and without any compulsion perfectly reconciled to his
 lot.
-
-----------------------------------------------------------------------
-
-BOOK FOUR
 
 That which rules within, when it is according to nature, is so affected
 with respect to the events which happen, that it always easily adapts
@@ -1150,10 +1124,6 @@ say and do everything in conformity with the soundest reason. For
 such a purpose frees a man from trouble, and warfare, and all artifice
 and ostentatious display.
 
-----------------------------------------------------------------------
-
-BOOK FIVE
-
 In he morning when thou risest unwillingly, let this thought be present-
 I am rising to the work of a human being. Why then am I dissatisfied
 if I am going to do the things for which I exist and for which I was
@@ -1549,10 +1519,6 @@ to these people- wilt thou too then be made a fool for these things?-
 I was once a fortunate man, but I lost it, I know not how.- But fortunate
 means that a man has assigned to himself a good fortune: and a good
 fortune is good disposition of the soul, good emotions, good actions.
-
-----------------------------------------------------------------------
-
-BOOK SIX
 
 The substance of the universe is obedient and compliant; and the
 reason which governs it has in itself no cause for doing evil, for
@@ -1987,10 +1953,6 @@ the universal nature.
 What kind of people are those whom men wish to please, and for what
 objects, and by what kind of acts? How soon will time cover all things,
 and how many it has covered already.
-
-----------------------------------------------------------------------
-
-BOOK SEVEN
 
 What is badness? It is that which thou hast often seen. And on the
 occasion of everything which happens keep this in mind, that it is
@@ -2439,10 +2401,6 @@ that takes place comes by way of consequence or continuity; or even
 the chief things towards which the ruling power of the universe directs
 its own movement are governed by no rational principle. If this is
 remembered it will make thee more tranquil in many things.
-
-----------------------------------------------------------------------
-
-BOOK EIGHT
 
 This reflection also tends to the removal of the desire of empty
 fame, that it is no longer in thy power to have lived the whole of
@@ -2893,10 +2851,6 @@ moves straight onward not the less, and to its object.
 Enter into every man's ruling faculty; and also let every other man
 enter into thine.
 
-----------------------------------------------------------------------
-
-BOOK NINE
-
 He ho acts unjustly acts impiously. For since the universal nature
 has made rational animals for the sake of one another to help one
 another according to their deserts, but in no way to injure one another,
@@ -3294,10 +3248,6 @@ so also as man is formed by nature to acts of benevolence, when he
 has done anything benevolent or in any other way conducive to the
 common interest, he has acted conformably to his constitution, and
 he gets what is his own.
-
-----------------------------------------------------------------------
-
-BOOK TEN
 
 Wilt thou, then, my soul, never be good and simple and one and naked,
 more manifest than the body which surrounds thee? Wilt thou never
@@ -3707,10 +3657,6 @@ grow to the body. For indeed there is no more use in these parts without
 the cause which moves and checks them than in the weaver's shuttle,
 and the writer's pen and the driver's whip.
 
-----------------------------------------------------------------------
-
-BOOK ELEVEN
-
 These are the properties of the rational soul: it sees itself, analyses
 itself, and makes itself such as it chooses; the fruit which it bears
 itself enjoys- for the fruits of plants and that in animals which
@@ -4082,10 +4028,6 @@ Souls of rational men.- Of what rational men? Sound or unsound?- Sound.-
 Why then do you not seek for them?- Because we have them.- Why then
 do you fight and quarrel?
 
-----------------------------------------------------------------------
-
-BOOK TWELVE
-
 All those things at which thou wishest to arrive by a circuitous
 road, thou canst have now, if thou dost not refuse them to thyself.
 And this means, if thou wilt take no notice of all the past, and trust
@@ -4312,17 +4254,3 @@ Rufus (or Rufus at Velia); and in fine think of the eager pursuit
 of anything conjoined with pride; and how worthless everything is
 after which men violently strain; and how much more philosophical
 it is for a man in the opportunities presented to him to show
-
-THE END
-
-----------------------------------------------------------------------
-
-Copyright statement:
-The Internet Classics Archive by Daniel C. Stevenson, Web Atomics.
-World Wide Web presentation is copyright (C) 1994-2000, Daniel
-C. Stevenson, Web Atomics.
-All rights reserved under international and pan-American copyright
-conventions, including the right of reproduction in whole or in part
-in any form. Direct permission requests to classics@classics.mit.edu.
-Translation of "The Deeds of the Divine Augustus" by Augustus is
-copyright (C) Thomas Bushnell, BSG.
